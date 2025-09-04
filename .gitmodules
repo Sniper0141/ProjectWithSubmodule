@@ -1,0 +1,3 @@
+[submodule "SubmoduleOfTheProject"]
+	path = SubmoduleOfTheProject
+	url = https://github.com/Sniper0141/SubmoduleOfTheProject
